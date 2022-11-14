@@ -1,5 +1,5 @@
 ![badge](https://img.shields.io/badge/Live--class-Project-yellowgreen)
-# Hosting Landing Page👉 
+# Hosting Landing Page👉 [Livelink](https://project-11-hostinglandingpage.netlify.app/)
 
 - **My learning from this project**
 
